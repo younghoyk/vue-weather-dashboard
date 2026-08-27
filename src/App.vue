@@ -11,7 +11,7 @@ const route = useRoute()
     <div class="app-card">
       <header class="app-header">
         <h1>
-          <el-icon><PartlyCloudy /></el-icon> Vue 실습 과제
+          <el-icon><PartlyCloudy /></el-icon> Vue 실습 과제 - 판교 1반 유영호
         </h1>
       </header>
 
